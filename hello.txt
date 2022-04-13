@@ -7,3 +7,4 @@ hello git! hello git! hello git!
 hello git! hello git! hello git! master test
 hello git! hello git! hello git! hot-fix test
 这是在github中添加的数据
+测试ssh是否生效
